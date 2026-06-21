@@ -36,7 +36,3 @@ Because this platform is built entirely with client-side technologies, no comple
 ### Prerequisites
 A modern web browser (Google Chrome, Mozilla Firefox, Microsoft Edge, or Safari).
 
-### Running the Application
-1. Clone the repository to your local machine:
-```bash
-   git clone [https://github.com/naveenachukka7-a11y/crop-guard.git](https://github.com/naveenachukka7-a11y/crop-guard.git)
